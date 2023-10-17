@@ -1,0 +1,52 @@
+a:link, a:visited 
+{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+::selection
+{
+    background-color: #6a9739;
+}
+*
+{
+font-family: 'Merriweather',serif;
+}
+.btn1
+{
+    background-color: #6a9739;
+    transition: all ease 0.5s;
+    
+}
+.btn:hover{
+    background-color: #6a9739;
+    color: white;
+    scale: 1.2;
+}
+
+.hover:hover{
+  background-color: darkgray;
+}
+.img
+{
+    justify-content: center;
+}
+.cardback:hover 
+{
+    opacity: 0.5;
+}
+.accordian-body
+{
+    font-size: 20px;
+    text-align: left;
+}
+
+.container img:hover{
+    cursor: pointer;
+}
+
+.cartitems{
+    margin-left: 30px;
+    position: relative;
+}
+
